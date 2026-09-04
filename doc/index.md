@@ -5,9 +5,10 @@ to create easily readable and aesthetically pleasing
 documentation.
 
 ```{toctree}
-:maxdepth: 3
+:maxdepth: 30
 :caption: Contents:
 some-feature.md
 another-feature.md
 simon.md
+Editor/Views.md
 ```
