@@ -1,8 +1,6 @@
-# Documentation example with Sphinx
+# Eclipsed Game Engine Documentation
 
-A small example of how to use Sphinx and MyST 
-to create easily readable and aesthetically pleasing
-documentation.
+Documentation for the popular game engine, Eclipsed Engine.
 
 ```{toctree}
 :maxdepth: 30
@@ -10,5 +8,5 @@ documentation.
 some-feature.md
 another-feature.md
 simon.md
-Editor/Views.md
+Editor/Views
 ```
