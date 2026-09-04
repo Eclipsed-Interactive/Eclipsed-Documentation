@@ -5,5 +5,5 @@ Documentation for the popular game engine, Eclipsed Engine.
 ```{toctree}
 :maxdepth: 2
 
-Editor/Views
+Editor/Views.md
 ```
